@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "\u65e0\u5e8f\u6709\u683c\n\u00b6\n\n\n\u5409\u7965\u7269 \u9f99\u732b\u9001\u4e0a",
+            "text": "\u65e0\u5e8f\u6709\u683c\n\n\n\u5409\u7965\u7269 \u9f99\u732b\u9001\u4e0a",
             "title": "Home"
         },
         {
@@ -12,7 +12,7 @@
         },
         {
             "location": "/about/",
-            "text": "About\n\u00b6",
+            "text": "About",
             "title": "About"
         },
         {
